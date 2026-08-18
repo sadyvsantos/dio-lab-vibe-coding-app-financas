@@ -2,7 +2,6 @@
 
 PRD refinado no Gemini.
 
-...markdown
 # Product Requirements Document (PRD) — MVP Finanças Conversacionais
 
 ## 1. Visão Geral do Produto
@@ -75,7 +74,7 @@ Um aplicativo web/mobile responsivo de finanças pessoais focado em eliminar a f
 1. **Teste de Compreensão:** Validar se o assistente interpreta corretamente 90%+ das variações comuns de frases de gastos informais.
 2. **Engajamento:** Medir se os usuários preferem registrar via chat do que por botões normais.
 3. **Retenção:** Verificar se as mensagens educativas de metas incentivam o usuário a voltar no 3º e 7º dia.
-...
+
 
 
 Link do site: https://santos-coins.lovable.app/
